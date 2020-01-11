@@ -5,9 +5,9 @@ so I commit some patches to compatible with python3.
 below is the orginal README.txt
 
 
-#####################
-django-templateaddons
-#####################
+# #####################
+# django-templateaddons
+# #####################
 
 django-templateaddons is a set of tools for use with Django's templates, 
 template tags and context processors. It provides additional template tags, 
